@@ -226,6 +226,7 @@ A self-built course covering Python fundamentals through data tooling — OOP, f
 
 [![GitHub](https://img.shields.io/badge/GITHUB-adnanahamedtamim-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/adnanahamedtamim)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/adnan-ahamed-tamim)
+[![Email](https://img.shields.io/badge/EMAIL-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:adnanahamedtamim@gmail.com)
 
 <br/><br/>
 
