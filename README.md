@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Adnan%20Ahamed%20Tamim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20Developer%20%7C%20Competitive%20Programmer%20%7C%20%20&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Adnan%20Ahamed%20Tamim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20Developer%20%7C%20Competitive%20Programmer%20&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=200%2B+Competitive+Programming+Algorithms;AI+%26+Full+Stack+Application+Builder;Algorithm+%26+Data+Structure+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /></a>
