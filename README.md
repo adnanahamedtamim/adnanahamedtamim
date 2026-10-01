@@ -109,9 +109,11 @@ I'm deeply passionate about competitive programming and algorithmic problem solv
 
 <div align="center">
 
-### Platforms I Practice On
+### My Competitive Programming Profiles
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Adu10-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Adu10)
+[![AtCoder](https://img.shields.io/badge/AtCoder-Adu10-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Adu10)
+[![CodeChef](https://img.shields.io/badge/CodeChef-adu10-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/adu10)
 [![LightOJ](https://img.shields.io/badge/LightOJ-FFD700?style=for-the-badge&logoColor=black)](https://lightoj.com/)
 [![CSES](https://img.shields.io/badge/CSES-1A1A2E?style=for-the-badge&logoColor=white)](https://cses.fi/)
 
@@ -227,6 +229,7 @@ A self-built course covering Python fundamentals through data tooling — OOP, f
 [![GitHub](https://img.shields.io/badge/GITHUB-adnanahamedtamim-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/adnanahamedtamim)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/adnan-ahamed-tamim)
 [![Email](https://img.shields.io/badge/EMAIL-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:adnanahamedtamim@gmail.com)
+[![Codeforces](https://img.shields.io/badge/CODEFORCES-Adu10-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117)](https://codeforces.com/profile/Adu10)
 
 <br/><br/>
 
