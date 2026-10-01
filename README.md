@@ -14,6 +14,7 @@
 - :mortar_board: **Student Developer** passionate about problem-solving and building things
 - :trophy: **Competitive Programmer** — 165+ problems solved across multiple platforms
 - :computer: **Full Stack Developer** — building web applications with modern technologies
+- :microphone: **Desktop App Developer** — building voice-transformation tools with Python
 - :seedling: Currently deepening my knowledge in **Algorithms, Data Structures & Web Development**
 - :zap: Fun fact: I enjoy transforming complex algorithmic concepts into clean, reusable code
 
@@ -26,22 +27,41 @@
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Database
+### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![tkinter](https://img.shields.io/badge/tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools & Platforms
+### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+<!-- Languages I Work With -->
+## :pie: Languages I Work With
+
+<div align="center">
+
+| Language | Used In |
+|:--------:|:--------|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Competitive Programming (165+ solutions), Code Library (400+ templates) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | VoxShield (desktop voice app), ML/AI, scripting |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Incident Reporting System (full-stack web app) |
+| ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | PostgreSQL databases, schema design |
+| ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white) | Web frontends |
 
 </div>
 
@@ -87,8 +107,6 @@ I'm deeply passionate about competitive programming and algorithmic problem solv
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=adnanahamedtamim&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanahamedtamim&layout=compact&langs_count=8&include_forks=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
@@ -109,29 +127,6 @@ I'm deeply passionate about competitive programming and algorithmic problem solv
 
 ---
 
-<!-- Featured Repos -->
-## :star2: Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/adnanahamedtamim/competitve_programming">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=competitve_programming&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&description=165%2B%20C%2B%2B%20solutions%20covering%20segment%20trees%2C%20HLD%2C%20DP%2C%20graphs%2C%20FFT%20%26%20more" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/adnanahamedtamim/code-library">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=code-library&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-<br/>
-
-<a href="https://github.com/adnanahamedtamim/IncidentReportingSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=IncidentReportingSystem&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
 <!-- Projects -->
 ## :rocket: Projects
 
@@ -147,24 +142,59 @@ My personal collection of **165+ C++ solutions** for competitive programming pro
 </td>
 <td width="50%">
 
+### :shield: [VoxShield](https://github.com/Rakib1958/VoxShield)
+A desktop voice-transformation studio built with Python and tkinter. Combines a phase vocoder engine, neural voice conversion (kNN-VC with WavLM + HiFi-GAN), real-time mic processing, steganographic audio vaults, and Shazam-style song recognition.
+
+**Tech:** `Python` `tkinter` `PyTorch` `NumPy`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### :rotating_light: [Incident Reporting System](https://github.com/adnanahamedtamim/IncidentReportingSystem)
 A full-stack web application for reporting and managing incidents. Features user authentication, email notifications via Nodemailer, SMS alerts via Twilio, and a PostgreSQL database backend.
 
 **Tech:** `Node.js` `Express` `PostgreSQL` `HTML/CSS/JS`
 
 </td>
-</tr>
-<tr>
-<td width="50%" colspan="2" align="center">
+<td width="50%">
 
 ### :books: [Code Library](https://github.com/adnanahamedtamim/code-library)
-A comprehensive collection of algorithm and data structure templates for competitive programming — covering graph theory, number theory, strings, geometry, DP optimizations, and more.
+A comprehensive collection of **400+ algorithm and data structure templates** for competitive programming — covering graph theory, number theory, strings, geometry, DP optimizations, and more.
 
 **Tech:** `C++` `Python`
 
 </td>
 </tr>
 </table>
+
+---
+
+<!-- Featured Repos -->
+## :star2: Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/adnanahamedtamim/competitve_programming">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=competitve_programming&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Rakib1958/VoxShield">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib1958&repo=VoxShield&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+<br/>
+
+<a href="https://github.com/adnanahamedtamim/IncidentReportingSystem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=IncidentReportingSystem&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/adnanahamedtamim/code-library">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=code-library&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+</div>
 
 ---
 
