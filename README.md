@@ -15,6 +15,7 @@
 - :trophy: **Competitive Programmer** — 200+ competitive programming algorithms across multiple platforms
 - :brain: **AI/ML Builder** — built a RAG-grounded wildlife rescue platform with vision-model health scans
 - :computer: **Full Stack Developer** — building web applications with modern technologies
+- :gear: **Computer Architecture** — designed a pipelined MIPS CPU and a floating-point adder at the gate level
 - :microphone: **Desktop App Developer** — building voice-transformation tools with Python
 - :seedling: Currently deepening my knowledge in **Algorithms, Data Structures & AI Applications**
 - :zap: Fun fact: I enjoy transforming complex algorithmic concepts into clean, reusable code
@@ -30,6 +31,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,6 +48,10 @@
 ![OpenAI API](https://img.shields.io/badge/LLM_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB_RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Computer Architecture
+![Logisim](https://img.shields.io/badge/Logisim--evolution-FF6600?style=for-the-badge&logo=digitalocean&logoColor=white)
+![MIPS Assembly](https://img.shields.io/badge/MIPS_Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### Database & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -69,6 +75,8 @@
 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Competitive Programming (200+ algorithms), Code Library (400+ templates), Mini Projects (Trie autocomplete) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | WildNest-AI (Flask + RAG platform), VoxShield (voice app), Learn Python (course), Mini Projects |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Incident Reporting System (full-stack web app) |
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | Custom MIPS assembler for the pipelined CPU project |
+| ![MIPS Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white) | Pipelined CPU hazard/forwarding test programs |
 | ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | PostgreSQL / SQLite databases, schema design |
 | ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white) | Web frontends & dashboards |
 | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | Data analysis notebooks (NumPy, Pandas, Matplotlib) |
@@ -138,6 +146,16 @@ I'm deeply passionate about competitive programming and algorithmic problem solv
 Built for **AnimalHack 2026**. Tracks rescued animals from rescue to adoption with a RAG-grounded care chatbot, AI photo health scans, weather-smart meal planning, and AI adopter matching. Uses ChromaDB + sentence-transformers for retrieval and Groq-served LLMs (text + vision) for the AI layer.
 
 **Tech:** `Python` `Flask` `ChromaDB` `RAG` `SQLAlchemy` `Plotly` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="100%" colspan="2">
+
+### :cpu: [Computer Architecture Assignments](https://github.com/bari4078/ComputerArchitectureAssignments) — Team Project, BUET CSE
+A group hardware-design project built gate-by-gate in Logisim-evolution: a **4-bit pipelined MIPS processor** (custom 16-bit ISA) with hazard detection, forwarding, and branch flushing — verified against 40 hand-written hazard test programs and a custom Java assembler — plus a **16-bit floating-point adder** with Guard/Round/Sticky rounding and exception handling, and a 7400-series logic **ALU**.
+
+**Tech:** `Logisim-evolution` `MIPS Assembly` `Java` `Digital Logic Design`
 
 </td>
 </tr>
