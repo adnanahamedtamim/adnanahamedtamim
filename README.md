@@ -11,8 +11,8 @@
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-- :mortar_board: **Student Developer** passionate about problem-solving and building things
-- :trophy: **Competitive Programmer** — 200+ competitive programming algorithms across multiple platforms
+- :mortar_board: **Developer** passionate about problem-solving and building things
+- :trophy: **Competitive Programmer** —Probably a competitive programmer in the making, navigating the fine line between ambition and uncertainty.
 - :brain: **AI/ML Builder** — built a RAG-grounded wildlife rescue platform with vision-model health scans
 - :computer: **Full Stack Developer** — building web applications with modern technologies
 - :gear: **Computer Architecture** — designed a pipelined MIPS CPU and a floating-point adder at the gate level
