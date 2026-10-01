@@ -199,43 +199,6 @@ A self-built course covering Python fundamentals through data tooling — OOP, f
 
 ---
 
-<!-- Featured Repos -->
-## :star2: Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/adnanahamedtamim/WildNest-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=WildNest-AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/adnanahamedtamim/competitve_programming">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=competitve_programming&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Rakib1958/VoxShield">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib1958&repo=VoxShield&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/adnanahamedtamim/IncidentReportingSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=IncidentReportingSystem&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-<br/>
-
-<a href="https://github.com/adnanahamedtamim/code-library">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=code-library&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/adnanahamedtamim/mini-projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=mini-projects&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
 <!-- Profile Views & Connect -->
 <div align="center">
 
