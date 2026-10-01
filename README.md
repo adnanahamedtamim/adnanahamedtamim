@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Adnan%20Ahamed%20Tamim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Problem%20Solver&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=165%2B+Competitive+Programming+Solutions;Algorithm+%26+Data+Structure+Enthusiast;Full+Stack+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=200%2B+Competitive+Programming+Algorithms;AI+%26+Full+Stack+Application+Builder;Algorithm+%26+Data+Structure+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /></a>
 
 </div>
 
@@ -12,10 +12,11 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 - :mortar_board: **Student Developer** passionate about problem-solving and building things
-- :trophy: **Competitive Programmer** — 165+ problems solved across multiple platforms
+- :trophy: **Competitive Programmer** — 200+ competitive programming algorithms across multiple platforms
+- :brain: **AI/ML Builder** — built a RAG-grounded wildlife rescue platform with vision-model health scans
 - :computer: **Full Stack Developer** — building web applications with modern technologies
 - :microphone: **Desktop App Developer** — building voice-transformation tools with Python
-- :seedling: Currently deepening my knowledge in **Algorithms, Data Structures & Web Development**
+- :seedling: Currently deepening my knowledge in **Algorithms, Data Structures & AI Applications**
 - :zap: Fun fact: I enjoy transforming complex algorithmic concepts into clean, reusable code
 
 ---
@@ -34,13 +35,21 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![tkinter](https://img.shields.io/badge/tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### AI / Data
+![OpenAI API](https://img.shields.io/badge/LLM_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB_RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Database & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -57,11 +66,12 @@
 
 | Language | Used In |
 |:--------:|:--------|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Competitive Programming (165+ solutions), Code Library (400+ templates) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | VoxShield (desktop voice app), ML/AI, scripting |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Competitive Programming (200+ algorithms), Code Library (400+ templates), Mini Projects (Trie autocomplete) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | WildNest-AI (Flask + RAG platform), VoxShield (voice app), Learn Python (course), Mini Projects |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Incident Reporting System (full-stack web app) |
-| ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | PostgreSQL databases, schema design |
-| ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white) | Web frontends |
+| ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | PostgreSQL / SQLite databases, schema design |
+| ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white) | Web frontends & dashboards |
+| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | Data analysis notebooks (NumPy, Pandas, Matplotlib) |
 
 </div>
 
@@ -101,16 +111,17 @@ I'm deeply passionate about competitive programming and algorithmic problem solv
 
 ---
 
-<!-- GitHub Stats -->
-## :bar_chart: GitHub Stats
+<!-- GitHub Overview -->
+## :bar_chart: GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adnanahamedtamim&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adnanahamedtamim&theme=github_dark" alt="GitHub Stats" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adnanahamedtamim&theme=github_dark" alt="Most Used Languages" width="48%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=adnanahamedtamim&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=adnanahamedtamim&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="90%"/>
 
 </div>
 
@@ -121,10 +132,20 @@ I'm deeply passionate about competitive programming and algorithmic problem solv
 
 <table align="center">
 <tr>
+<td width="100%" colspan="2">
+
+### :paw_prints: [WildNest-AI](https://github.com/adnanahamedtamim/WildNest-AI) — AI Wildlife Rescue & Rehoming Platform
+Built for **AnimalHack 2026**. Tracks rescued animals from rescue to adoption with a RAG-grounded care chatbot, AI photo health scans, weather-smart meal planning, and AI adopter matching. Uses ChromaDB + sentence-transformers for retrieval and Groq-served LLMs (text + vision) for the AI layer.
+
+**Tech:** `Python` `Flask` `ChromaDB` `RAG` `SQLAlchemy` `Plotly` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### :brain: [Competitive Programming](https://github.com/adnanahamedtamim/competitve_programming)
-My personal collection of **165+ C++ solutions** for competitive programming problems from Codeforces, LightOJ, and CSES. Covers advanced topics like segment trees, heavy-light decomposition, convex hull trick, FFT, and more.
+My personal collection of **200+ C++ algorithms** for competitive programming problems from Codeforces, LightOJ, and CSES. Covers segment trees, heavy-light decomposition, convex hull trick, FFT, and more.
 
 **Tech:** `C++` `Python`
 
@@ -132,7 +153,7 @@ My personal collection of **165+ C++ solutions** for competitive programming pro
 <td width="50%">
 
 ### :shield: [VoxShield](https://github.com/Rakib1958/VoxShield)
-A desktop voice-transformation studio built with Python and tkinter. Combines a phase vocoder engine, neural voice conversion (kNN-VC with WavLM + HiFi-GAN), real-time mic processing, steganographic audio vaults, and Shazam-style song recognition.
+A desktop voice-transformation studio built with Python and tkinter. Combines a phase vocoder engine, neural voice conversion (kNN-VC with WavLM + HiFi-GAN), real-time mic processing, and Shazam-style song recognition.
 
 **Tech:** `Python` `tkinter` `PyTorch` `NumPy`
 
@@ -156,6 +177,24 @@ A comprehensive collection of **400+ algorithm and data structure templates** fo
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### :toolbox: [Mini Projects](https://github.com/adnanahamedtamim/mini-projects)
+A collection of small practice projects: a banking system, calculator, tic-tac-toe, shop management system, and a Trie-based word autocomplete engine.
+
+**Tech:** `Python` `C++`
+
+</td>
+<td width="50%">
+
+### :snake: [Learn Python](https://github.com/adnanahamedtamim/learn-python)
+A self-built course covering Python fundamentals through data tooling — OOP, file handling, dictionaries, and hands-on notebooks with NumPy, Pandas, and Matplotlib.
+
+**Tech:** `Python` `NumPy` `Pandas` `Matplotlib`
+
+</td>
+</tr>
 </table>
 
 ---
@@ -165,22 +204,32 @@ A comprehensive collection of **400+ algorithm and data structure templates** fo
 
 <div align="center">
 
-<a href="https://github.com/adnanahamedtamim/competitve_programming">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=competitve_programming&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/adnanahamedtamim/WildNest-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=WildNest-AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Rakib1958/VoxShield">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib1958&repo=VoxShield&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/adnanahamedtamim/competitve_programming">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=competitve_programming&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 <br/>
 
+<a href="https://github.com/Rakib1958/VoxShield">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib1958&repo=VoxShield&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+&nbsp;&nbsp;
 <a href="https://github.com/adnanahamedtamim/IncidentReportingSystem">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=IncidentReportingSystem&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-&nbsp;&nbsp;
+
+<br/>
+
 <a href="https://github.com/adnanahamedtamim/code-library">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=code-library&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/adnanahamedtamim/mini-projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adnanahamedtamim&repo=mini-projects&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -192,9 +241,9 @@ A comprehensive collection of **400+ algorithm and data structure templates** fo
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adnanahamedtamim&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
 
-### :handshake: Let's Connect!
+### :envelope_with_arrow: Let's Connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adnanahamedtamim)
+[![GitHub](https://img.shields.io/badge/GITHUB-adnanahamedtamim-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/adnanahamedtamim)
 
 </div>
 
