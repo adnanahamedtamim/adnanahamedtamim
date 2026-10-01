@@ -208,6 +208,10 @@ A self-built course covering Python fundamentals through data tooling — OOP, f
 
 [![GitHub](https://img.shields.io/badge/GITHUB-adnanahamedtamim-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/adnanahamedtamim)
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/adnanahamedtamim/adnanahamedtamim/output/profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" width="90%"/>
+
 </div>
 
 <!-- Footer -->
