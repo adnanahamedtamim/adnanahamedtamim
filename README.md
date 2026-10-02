@@ -11,14 +11,7 @@
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-- :mortar_board: **Developer** passionate about problem-solving and building things
-- :trophy: **Competitive Programmer** —Probably a competitive programmer in the making, navigating the fine line between ambition and uncertainty.
-- :brain: **AI/ML Builder** — built a RAG-grounded wildlife rescue platform with vision-model health scans
-- :computer: **Full Stack Developer** — building web applications with modern technologies
-- :gear: **Computer Architecture** — designed a pipelined MIPS CPU and a floating-point adder at the gate level
-- :microphone: **Desktop App Developer** — building voice-transformation tools with Python
-- :seedling: Currently deepening my knowledge in **Algorithms, Data Structures & AI Applications**
-- :zap: Fun fact: I enjoy transforming complex algorithmic concepts into clean, reusable code
+I'm Adnan Ahamed Tamim, a Computer Science and Engineering student at Bangladesh University of Engineering and Technology (BUET). My work spans competitive programming, with 200+ algorithms solved and maintained across Codeforces, AtCoder, CodeChef, LightOJ, and CSES, alongside a 400+ template code library covering graph theory, data structures, and number theory. Beyond contest problems, I've built WildNest-AI, a RAG-grounded wildlife rescue platform with vision-model health scans, contributed to a desktop voice-transformation app, and built a full-stack incident reporting system. As part of my coursework, I also worked with my team on a gate-level pipelined MIPS processor and a floating-point adder in Logisim. I'm continually expanding my skills across algorithms, AI applications, and computer architecture.
 
 ---
 
