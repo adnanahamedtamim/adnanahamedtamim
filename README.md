@@ -11,7 +11,7 @@
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-I'm Adnan Ahamed Tamim, a Computer Science and Engineering student at Bangladesh University of Engineering and Technology (BUET). My work spans competitive programming, with 200+ algorithms solved and maintained across Codeforces, AtCoder, CodeChef, LightOJ, and CSES . I've built WildNest-AI, a RAG-grounded wildlife rescue platform with vision-model health scans, contributed to a desktop voice-transformation app, and built a full-stack incident reporting system. As part of my coursework, I also worked with my team on a gate-level pipelined MIPS processor and a floating-point adder in Logisim. I'm continually expanding my skills across algorithms, AI applications.
+I'm Adnan Ahamed Tamim, a Computer Science and Engineering student at Bangladesh University of Engineering and Technology (BUET). My work spans competitive programming, with 200+ algorithms solved and maintained across Codeforces, AtCoder, CodeChef, LightOJ, and CSES . I've built WildNest-AI, a RAG-grounded wildlife rescue platform with vision-model health scans,built a desktop voice-transformation app, and also a full-stack incident reporting system. As part of my coursework, I also worked with my team on a gate-level pipelined MIPS processor and a floating-point adder in Logisim. I'm continually expanding my skills across algorithms, AI applications.
 
 ---
 
